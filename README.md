@@ -1,4 +1,4 @@
-# @pezhmanparsaee/tinty
+# @pezhmanparsaee/tiny
 
 [![npm (scoped)](https://img.shields.io/npm/v/@pezhmanparsaee/tiny.svg)](https://www.npmjs.com/package/@pezhmanparsaee/tiny)
 
